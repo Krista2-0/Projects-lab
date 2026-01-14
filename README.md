@@ -9,7 +9,7 @@
 
 Project Lab is more than a repository, it is a place to grow knowledge, build a future and monitor progress.
 
-Rather than treating coding as a task that is completed and left behind, this repository exists to make writing code feel natural and consistent — a space that encourages growth and long-term commitment.
+Rather than treating coding as a task that is completed and left behind, this repository exists to make writing code feel natural and consistent, it's a space that encourages growth and long-term commitment.
 
 ---
 
