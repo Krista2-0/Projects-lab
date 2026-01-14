@@ -7,7 +7,7 @@
 
 ### 🧠 About Project Lab
 
-Project Lab is more than a repository — it is a place to grow knowledge, build a future, and monitor progress.
+Project Lab is more than a repository, it is a place to grow knowledge, build a future and monitor progress.
 
 Rather than treating coding as a task that is completed and left behind, this repository exists to make writing code feel natural and consistent — a space that encourages growth and long-term commitment.
 
@@ -16,7 +16,7 @@ Rather than treating coding as a task that is completed and left behind, this re
 ### 🌱 Mindset
 
 Project Lab is built on the idea that progress requires care and consistency.  
-Like anything meant to grow, it needs regular attention — practice, experimentation, and reflection.
+Like anything meant to grow, it needs regular attention, practice, experimentation and reflection.
 
 This mindset turns coding into a habit, not a chore.
 
@@ -38,4 +38,4 @@ This repository will be used to build unique and innovative applications and web
 ### 📈 Growth
 
 Project Lab will evolve over time.  
-Each update represents progress — not perfection — and reflects continuous learning and development.
+Each update represents progress, not perfection and reflects continuous learning and development.
